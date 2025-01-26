@@ -2,5 +2,6 @@ pandas
 numpy
 certifi
 pymongo
-pymongo[srv]
+#pymongo[srv]
+scikit-learn
 ##-e .
